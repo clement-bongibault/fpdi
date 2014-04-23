@@ -17,7 +17,7 @@
 //  limitations under the License.
 //
 
-class FPDF_TPL extends \fpdf\FPDF {
+class FPDF_TPL extends \fpdf\FPDF_Code128 {
     /**
      * Array of Tpl-Data
      * @var array
